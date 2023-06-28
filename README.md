@@ -42,5 +42,5 @@ fisher install kostya-zero/clip.fish
 ##### Manually
 
 ```shell
-curl "https://raw.githubusercontent.com/kostya-zero/clip.fish/main/functions/clip.fish" -o "$HOME/.config/fish/functions/clip.fish"
+curl "https://gitlab.com/kostya-zero/clip.fish/-/raw/main/functions/clip.fish" -o "$HOME/.config/fish/functions/clip.fish"
 ```
